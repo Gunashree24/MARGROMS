@@ -15,7 +15,7 @@ body {
 
 /* Header */
 header {
-    background-color: #0a66c2;
+    background-color: #ff0000;
     color: white;
     text-align: center;
     padding: 40px 20px;
@@ -41,7 +41,7 @@ section {
 
 /* Headings */
 h2 {
-    color: #0a66c2;
+    color: #ff0000;
     margin-bottom: 15px;
 }
 
@@ -55,8 +55,8 @@ h2 {
 /* Skills */
 .skills-list span {
     display: inline-block;
-    background: #e3f2fd;
-    color: #0a66c2;
+    background: black;
+    color: white;
     padding: 6px 12px;
     margin: 6px;
     border-radius: 20px;
@@ -68,7 +68,7 @@ h2 {
     font-size: 16px;
 }
 a {
-    color: #0a66c2;
+    color: #ad00fd;
     text-decoration: none;
 }
 
@@ -79,4 +79,6 @@ a:hover {
 ul {
     padding-left: 20px;
 }
+
+
 
