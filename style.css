@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f8;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+section {
+    margin: 40px 0;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+/* Profile Section */
+.profile {
+    background-color: #1e293b;
+    color: #ffffff;
+}
+
+.role {
+    font-size: 18px;
+    color: #38bdf8;
+}
+
+/* About Section */
+.about {
+    background-color: #e0f2fe;
+    color: #0f172a;
+}
+
+/* Skills Section */
+.skills {
+    background-color: #dcfce7;
+    color: #14532d;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills li {
+    margin: 8px 0;
+    font-weight: bold;
+}
